@@ -33,10 +33,12 @@
 ## Input:
 
 ### Output:
+![image](https://github.com/kaviya2839/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/120553351/e8b788c5-bf70-47dd-8897-1027e5e8ca8d)
 
 
-### Name:
-### Register Number:
+
+### Name: kaviya shree s
+### Register Number: 212222110018
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
